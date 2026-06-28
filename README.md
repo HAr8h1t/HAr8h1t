@@ -1,4 +1,4 @@
-```md
+md
 <div align="center">
 
 # Hi 👋 I'm Harshit
@@ -79,4 +79,3 @@ Python socket-based port scanner
 ⭐ Thanks for visiting my profile!
 
 </div>
-```
