@@ -12,7 +12,6 @@ Learning. Building. Improving every day.
 ---
 
 ## 🚀 About Me
-
 - 🎓 Student from India
 - 🐧 Ubuntu Linux user
 - 💻 Interested in Web Development & Software Engineering
@@ -46,8 +45,7 @@ Python socket-based port scanner
 
 ---
 
-## 🌱 Currently Learning
-
+## 🌱 Currently Learning :-
 - JavaScript
 - Flask
 - Linux Networking
@@ -55,8 +53,7 @@ Python socket-based port scanner
 
 ---
 
-## 🎯 2026 Goals
-
+## 🎯 2026 Goals:-
 - 🚀 Build Full Stack Applications
 - 🤝 Contribute to Open Source
 - 💡 Learn AI Integration
